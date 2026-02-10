@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DARE??",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-02-10T12:23:37.177549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Double Dare",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/01_Double_Dare_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dare (AM)",
+      "artist": "Namasenda",
+      "has_synced": true,
+      "path": "select/02_Dare_(AM)_Namasenda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dare (PM)",
+      "artist": "Namasenda",
+      "has_synced": false,
+      "path": "select/03_Dare_(PM)_Namasenda.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Truth or Dare",
+      "artist": "N.E.R.D",
+      "has_synced": true,
+      "path": "select/04_Truth_or_Dare_N.E.R.D.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dare I Care",
+      "artist": "Julian Casablancas+The Voidz",
+      "has_synced": true,
+      "path": "select/05_Dare_I_Care_Julian_Casablancas+The_Voidz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Double Dare",
+      "artist": "Momma",
+      "has_synced": false,
+      "path": "select/06_Double_Dare_Momma.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/07_Dare_Me_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Double Dare",
+      "artist": "Bauhaus",
+      "has_synced": false,
+      "path": "select/08_Double_Dare_Bauhaus.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Double Dare",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/09_Double_Dare_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Eagles Dare",
+      "artist": "Bratmobile",
+      "has_synced": false,
+      "path": "select/10_Where_Eagles_Dare_Bratmobile.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where Eagles Dare",
+      "artist": "Bratmobile",
+      "has_synced": true,
+      "path": "select/11_Where_Eagles_Dare_Bratmobile.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let the Light In (feat. Douglas Dare)",
+      "artist": "SONIKKU feat. Douglas Dare",
+      "has_synced": false,
+      "path": "select/12_Let_the_Light_In_(feat._Douglas_Dare)_SONIKKU_feat._Douglas_Dare.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Dare You",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/13_I_Dare_You_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "How Dare You",
+      "artist": "BASIA",
+      "has_synced": false,
+      "path": "select/14_How_Dare_You_BASIA.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't You Ever Dare Call Me Chickenhead",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/15_Don't_You_Ever_Dare_Call_Me_Chickenhead_Andy_Partridge.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DARE?? (King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME)",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_DARE__(King_Gnu_Dome_Tour_THE_GREATEST_UNKNOWN_at_TOKYO_DOME)_King_Gnu.txt"
+    }
+  ]
+}
